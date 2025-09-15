@@ -22,17 +22,7 @@ This project was built to **understand and practice LSTM implementation in NLP**
 
 ---
 
-## 📂 Project Structure
-├── data/ # Text dataset
-├── notebooks/ # Jupyter notebooks with training code
-├── models/ # Saved trained models
-├── README.md # Project documentation
-└── next_word_lstm.py # Main script for training & prediction
 
-yaml
-Copy code
-
----
 
 ## 🔑 Features
 - Text preprocessing: lowercasing, punctuation removal, tokenization.

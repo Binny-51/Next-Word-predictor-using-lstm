@@ -1,4 +1,5 @@
 # 🚀 Next Word Predictor using LSTM
+https://colab.research.google.com/drive/1PVXHaBerGX5W608ps-LoyUN1DL_-5epj?usp=sharing
 
 ## 📌 Project Overview
 This mini project demonstrates the implementation of a **Next Word Prediction** model using **Long Short-Term Memory (LSTM)** networks.  
